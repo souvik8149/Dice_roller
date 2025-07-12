@@ -10,7 +10,7 @@ A simple Python command-line game to roll 1 or 2 dice.
 
 • Option to play again after each roll
 
-• Written in Python using built-in modules only (random, time)
+• Written in Python using built-in modules only (`random`, `time`)
 
 ## ▶️ How to run
 1.Make sure you have Python installed.
@@ -18,7 +18,8 @@ A simple Python command-line game to roll 1 or 2 dice.
 2.Download or clone this repository.
 
 3.Open terminal or command prompt.
-Run:
+
+4.Run:
 ```bash
 python dice_roller.py
 ```
