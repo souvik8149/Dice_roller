@@ -1,14 +1,14 @@
-##🎲 Dice Roller Game
+## 🎲 Dice Roller Game
 A simple Python command-line game to roll 1 or 2 dice.
 
-##✨ Features
+## ✨ Features
 • Choose to roll 1 or 2 dice
 • isplays dice faces as Unicode emojis: ⚀ ⚁ ⚂ ⚃ ⚄ ⚅
 • Input validation and friendly prompts
 • Option to play again after each roll
 • Written in Python using built-in modules only (random, time)
 
-##▶️ How to run
+## ▶️ How to run
 1.Make sure you have Python installed.
 2.Download or clone this repository.
 3.Open terminal or command prompt.
@@ -17,7 +17,7 @@ Run:
 python dice_roller.py
 ```
 
-##🛠 About
+## 🛠 About
 A beginner-friendly project to practice:
 
 • Loops & conditionals
